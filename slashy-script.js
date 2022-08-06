@@ -6,11 +6,12 @@ const placeholder = 'Do laundry #Personal';
 showModal(label, placeholder, onsubmit);
 
 function onsubmit(val) {
-  fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ data: val, url: window.location.href }),
-  })
+  fetch(url, // URL to /notion in index.js, eg. www.yourdomain.com/notion
+    { 
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ data: val, url: window.location.href }),
+    })
     .then((response) => response.json())
     .then((result) => {
 
