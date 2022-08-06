@@ -1,7 +1,7 @@
 # NotionSlashyTodo
 Add to-do items with #category to a main to-do database from any Notion page.
 
-![](https://lh3.googleusercontent.com/pw/AL9nZEUhhBldiqaTrF2kfF_JeSDhWslnHLXkTIE8N7khpm11tD9fYtm3ogvQN2nUu50JNnDleRwV-I0JNNPTpo9OyQFsEakTgYga6FREKS4YbLZUS5q9wnl6pSRm5-XyFfVO0Sy_qNm6FU85kIbUnANeYYTe5w=w1430-h988-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AL9nZEXvr3Rv4ngmTvazG4BxWqFIfpJnXhjg_jUvSiVMNZ5Gifx10pvbUcZeT5Azu2WCTsFP7gqnuXINpOqoh4hwuoGqK4mUl91IBDg0v11Als56DxowD2o7zSQ_7TR6Y2mK-RLi3JIRF4RntTCbadXQOY7IEQ=w1486-h1044-no?authuser=0)
 
 ## Setup
 
@@ -15,7 +15,7 @@ Add to-do items with #category to a main to-do database from any Notion page.
 3. Choose <em>Script</em> as "Type of action".
 4. Insert the code from [slashy-script.js](https://github.com/xinyongjo/NotionSlashyTodo/blob/main/slashy-script.js).
 
-![](https://lh3.googleusercontent.com/pw/AL9nZEVjLWPwc5kEIjrKiiehja1pqkTs-pFnGK3FJJShkfsm-d7Io6YMIu7PahBlScpYR0ecqAiucVSKy_vLWg_KMhHjYIqEjnHzRekkb_M8yDcJOKj9KzLMv0j3gC__AMaTr7xvj3cGpu_TVHoMLQhDeJsWxg=w2590-h1408-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AL9nZEXegqBB8UBRqHU74IbS0fkT0_1hUMXX8KLVVw7_g9OzDxwVQzkN4gsP8KFa6swTS-FwTEwlaTG-qJB53wq4WL3y0dTD3l36jTKKskjIT45JSK3GVUAs24U_xlje6L_X_GAWqQhbjcfOFujSsDlNLO-TxA=w2590-h1408-no?authuser=0)
 
 ## How to Use
 1. Run the code in [index.js](https://github.com/xinyongjo/NotionSlashyTodo/blob/main/index.js).
